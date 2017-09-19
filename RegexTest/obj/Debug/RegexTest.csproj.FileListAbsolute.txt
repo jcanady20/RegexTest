@@ -1,0 +1,8 @@
+D:\Projects\RegexTest\RegexTest\bin\Debug\input-text.txt
+D:\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.exe.config
+D:\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.exe
+D:\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.pdb
+D:\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.csprojResolveAssemblyReference.cache
+D:\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.csproj.CoreCompileInputs.cache
+D:\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.exe
+D:\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.pdb
