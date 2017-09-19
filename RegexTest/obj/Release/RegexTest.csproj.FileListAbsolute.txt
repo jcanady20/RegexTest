@@ -1,8 +1,0 @@
-D:\Projects\RegexTest\RegexTest\bin\Release\input-text.txt
-D:\Projects\RegexTest\RegexTest\bin\Release\RegexTest.exe.config
-D:\Projects\RegexTest\RegexTest\bin\Release\RegexTest.exe
-D:\Projects\RegexTest\RegexTest\bin\Release\RegexTest.pdb
-D:\Projects\RegexTest\RegexTest\obj\Release\RegexTest.csproj.CoreCompileInputs.cache
-D:\Projects\RegexTest\RegexTest\obj\Release\RegexTest.exe
-D:\Projects\RegexTest\RegexTest\obj\Release\RegexTest.pdb
-D:\Projects\RegexTest\RegexTest\obj\Release\RegexTest.csprojResolveAssemblyReference.cache
